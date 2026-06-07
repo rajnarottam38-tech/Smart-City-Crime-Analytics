@@ -181,7 +181,7 @@ jupyter nbconvert --to notebook --execute "Notebooks/Notebooks/04_ml_models.ipyn
 **Your Name**
 - 📧 Email: rajnarottam38@gmail.com
 - 💼 LinkedIn:www.linkedin.com/in/narottam-kumar-1b9aa52a7
-- 🐙 GitHub: rajnarottam38-tech
+- 🐙 GitHub: https://github.com/rajnarottam38-tech
   
 
 ---
