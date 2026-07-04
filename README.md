@@ -159,10 +159,10 @@ jupyter nbconvert --to notebook --execute "Notebooks/Notebooks/04_ml_models.ipyn
 
 | Page | Description |
 |---|---|
-| Overview | KPI cards showing 42,242 crimes, arrests, districts |
-| Geo Hotspot | Crime location scatter plot across Chicago |
-| MI Prediction | High/Medium/Low risk distribution |
-| Trends | Crime patterns by year, hour, day and month |
+| Overview | KPI cards showing 42,242 crimes, arrests, districts | ![Overview](Dashboards/OVERVIEW.png)
+| Geo Hotspot | Crime location scatter plot across Chicago | ![Geo Districts](Dashboards/GEO%20%26%20DISTRICTS.png)
+| MI Prediction | High/Medium/Low risk distribution | ![Risk Model](Dashboards/RISK%20SCORE.png)
+| Trends | Crime patterns by year, hour, day and month | ![Trends](Dashboards/TRENDS.png)
 
 ---
 
