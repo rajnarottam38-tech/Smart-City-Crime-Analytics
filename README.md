@@ -6,7 +6,7 @@
 ![ML](https://img.shields.io/badge/ML-Random%20Forest-green?logo=scikit-learn)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-> **Final Year Data Analytics Project** — An end-to-end crime analytics platform analyzing 7.8M+ records from Chicago and Los Angeles using Python, MySQL, Machine Learning, and Power BI.
+> **Data Analytics Project** — An end-to-end crime analytics platform analyzing 7.8M+ records from Chicago and Los Angeles using Python, MySQL, Machine Learning, and Power BI.
 
 ---
 
