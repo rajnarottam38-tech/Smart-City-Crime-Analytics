@@ -188,7 +188,7 @@ jupyter nbconvert --to notebook --execute "Notebooks/Notebooks/04_ml_models.ipyn
 
 ## 📄 License
 
-This project is for educational purposes as part of a Final Year Project.
+This project is for educational purposes as part of a internship Project.
 
 ---
 
